@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "bootstrap": true,
+    "max_depth": 31,
+    "max_features": 0.613778702846185,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "n_estimators": 576
+  },
+  "cv_mae": 0.5011741522099616,
+  "test_mae": 0.46847554125817,
+  "test_rmse": 0.6183851032609766,
+  "test_r2": 0.46015815335696364
+}

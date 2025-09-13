@@ -1,0 +1,16 @@
+{
+  "chosen": "rf_simple",
+  "scores": {
+    "rf_simple": {
+      "MAE": 0.4668382352941176,
+      "RMSE": 0.6189044585056485,
+      "R2": 0.4592509923398699
+    },
+    "rf_tuned": {
+      "MAE": 0.46847554125817,
+      "RMSE": 0.6183851032609766,
+      "R2": 0.46015815335696364
+    }
+  },
+  "reason": "Elegido por menor MAE en test; diferencias m\u00ednimas no justifican mayor complejidad."
+}
